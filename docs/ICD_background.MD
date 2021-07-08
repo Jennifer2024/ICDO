@@ -4,6 +4,7 @@
 - the world's standard tool to capture mortality and morbidity data
 - Used by physicians, researchers, policy-makers, insurers, and patient organizations
 - a system used by physicians and other healthcare providers to classify and code all diagnoses, symptoms and procedures recorded in conjunction with hospital care in the United States.
+- The ICDO system was used to represent and analyze over 900 ICD codes used to represent the 4CE diagnosis data of over 27,000 COVID-19 patients from 5 countries. 
 
 
 ## Ontology Background
