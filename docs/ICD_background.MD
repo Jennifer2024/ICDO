@@ -11,7 +11,7 @@
 
 ## Related web links:  
 
-DATA:
+Data:
 - https://figshare.com/articles/dataset/Labs_Data_for_International_Electronic_Health_Record-Derived_COVID-19_Clinical_Course_Profile_The_4CE_Consortium/12152766
 - https://figshare.com/articles/dataset/Diagnosis_Data_for_International_Electronic_Health_Record-Derived_COVID-19_Clinical_Course_Profile_The_4CE_Consortium/12152967?file=22346613
 
