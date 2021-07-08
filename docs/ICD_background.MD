@@ -3,6 +3,8 @@
 - The International Statistical Classification of Diseases and Related Health Problems (ICD) is a medical classification system developed and maintained by the World Health Organization (WHO). 
 - the world's standard tool to capture mortality and morbidity data
 - Used by physicians, researchers, policy-makers, insurers, and patient organizations
+- a system used by physicians and other healthcare providers to classify and code all diagnoses, symptoms and procedures recorded in conjunction with hospital care in the United States.
+
 
 ## Ontology Background
 
